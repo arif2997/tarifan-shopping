@@ -1,0 +1,15 @@
+{
+  "env": {
+    "MONGO_USER": "your-mongodb-user",
+    "MONGO_PWD": "your-mongodb-password",
+    "MONGO_DB": "shop",
+    "PORT": 3000,
+    "STRIPE_KEY": "your-stripe-secret-key",
+    "MAIL_HOST": "smtp.example.com",
+    "MAIL_PORT": 587,
+    "MAIL_USER": "your-mail-user",
+    "MAIL_PASSWORD": "your-mail-password",
+    "MAIL_FROM": "shop@example.com",
+    "SESSION_SECRET": "replace-with-a-long-random-value"
+  }
+}
